@@ -8,7 +8,7 @@ Hi!✌ I'm Alireza, a passionate learner :) While I'm busy in various fields, I'
   <img align="right" width="400px" alit="AlirezaFarzinmnash" src="https://camo.githubusercontent.com/a05d160bcd471e2e2ebfe616d52f2c961c8c6f87669c1ac962dd74ecd9fa2eaf/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" />
 
 
-Skills: HTML  / CSS / felxbox  / JS juqery  / Boostrap / TailwindCSS / PHP / WoordPress /  git  / Github /  SEO / Elmentor /  woocommerc  / ReactJS
+Skills:  ReactJS / nextJs / typescript
 
 - 🔭 I’m currently working on A store with React this page. 
 - 🌱 I’m currently learning typescript 
